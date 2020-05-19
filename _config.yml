@@ -15,10 +15,10 @@ mail: aosky@zdl.im
 
 
 # 站点资源
-img: /simple/assets/img          # 图片库
-css: /simple/assets/css          # CSS 样式库
-js:  /simple/assets/js           # js 库
-cdn: https://cdn.jsdelivr.net/gh/professordeng/simple@gh-pages/assets/img # CDN 加速
+img: /wiki/assets/img          # 图片库
+css: /wiki/assets/css          # CSS 样式库
+js:  /wiki/assets/js           # js 库
+cdn: https://cdn.jsdelivr.net/gh/aosky/wiki@gh-pages/assets/img # CDN 加速
 
 # 背景图片
 bg: home.jpg
@@ -39,7 +39,7 @@ gitalk:
   enable: true 
   clientID: 6e42adfac0bf61e180f6
   clientSecret: d1ed44fc8888bbb2bcafb6bbc819ac9dddca5b71
-  repo: simple
+  repo: wiki
   owner: aosky
   admin: aosky
   id: simple      # 默认是 location.pathname
