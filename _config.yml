@@ -1,7 +1,7 @@
 # URL
-title: SIMPLE                        # 站点名
-description: A Jekyll Theme          # 站点描述
-url: https://professordeng.com       # 域名
+title: 笔记本                        # 站点名
+description: Sky's notebook           # 站点描述
+url: https://note.zdl.im       # 域名
 baseurl: /simple                     # 根目录
 
 # 社交帐号
