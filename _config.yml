@@ -36,7 +36,7 @@ plugins:
 # 评论系统（本主题使用 gitalk）
 ## Docs: https://github.com/gitalk/gitalk/blob/master/readme-cn.md
 gitalk:
-  enable: true 
+  enable: false 
   clientID: 6e42adfac0bf61e180f6
   clientSecret: d1ed44fc8888bbb2bcafb6bbc819ac9dddca5b71
   repo: wiki
