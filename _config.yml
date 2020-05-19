@@ -6,12 +6,12 @@ baseurl: /simple                     # 根目录
 
 # 社交帐号
 ## 会在页面底部显示，建议挑 4 个
-github: professordeng/simple
+github: 
 weibo:
-telegram: jekyll_simple
-zhihu: professordeng
+telegram: qshare
+zhihu: 
 linkedin:
-mail: professordeng@qq.com
+mail: aosky@zdl.im
 
 
 # 站点资源
@@ -40,8 +40,8 @@ gitalk:
   clientID: 6e42adfac0bf61e180f6
   clientSecret: d1ed44fc8888bbb2bcafb6bbc819ac9dddca5b71
   repo: simple
-  owner: professordeng
-  admin: professordeng
+  owner: aosky
+  admin: aosky
   id: simple      # 默认是 location.pathname
   title: simple   # issue 标题
   body: simple
