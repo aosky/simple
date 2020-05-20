@@ -2,7 +2,7 @@
 title: 笔记本                        # 站点名
 description: Sky's notebook           # 站点描述
 url: https://note.zdl.im       # 域名
-baseurl: /wiki                     # 根目录
+baseurl: /                    # 根目录
 
 # 社交帐号
 ## 会在页面底部显示，建议挑 4 个
@@ -15,9 +15,9 @@ mail: aosky@zdl.im
 
 
 # 站点资源
-img: /wiki/assets/img          # 图片库
-css: /wiki/assets/css          # CSS 样式库
-js:  /wiki/assets/js           # js 库
+img: /assets/img          # 图片库
+css: /assets/css          # CSS 样式库
+js:  /assets/js           # js 库
 cdn: https://cdn.jsdelivr.net/gh/aosky/wiki@gh-pages/assets/img # CDN 加速
 
 # 背景图片
